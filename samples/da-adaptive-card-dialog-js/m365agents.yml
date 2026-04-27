@@ -4,7 +4,7 @@
 version: v1.10
 
 additionalMetadata:
-  sampleTag: pnp-copilot-pro-dev:da-adaptive-card-dialog
+  sampleTag: pnp-copilot-pro-dev:da-adaptive-card-dialog-js
 
 environmentFolderPath: ./env
 

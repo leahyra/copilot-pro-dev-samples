@@ -1,5 +1,5 @@
 {
-    "name": "da-adaptive-card-dialog",
+    "name": "da-adaptive-card-dialog-js",
     "version": "1.0.0",
     "engines": {
         "node": ">=20"
